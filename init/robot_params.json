@@ -1,0 +1,11 @@
+{
+	"url_uber":"https://riders.uber.com/trips",
+	"url_uber_eat":"https://www.ubereats.com/fr-FR/orders/",
+
+	"timings": {
+		"maxTimeoutBeforeRaisingError": 10,
+		"specialTimeout": 600,
+		"waitingMultiplicator": 1
+	},
+	"driverName": "Firefox"
+}
